@@ -13,7 +13,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Objects
   - 
   - 
   - 
@@ -43,6 +43,9 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 394121673
+    locked: 0
+  - name: Carpets
+    uniqueID: 1313693555
     locked: 0
   - name: Walls
     uniqueID: 454050435
